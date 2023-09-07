@@ -25,5 +25,6 @@ Bem-vindo(a) ao meu perfil do GitHub. Sou Artur Araújo, UI/UX Designer e estuda
 ## Vamos Colaborar!
 
 Se você estiver interessado em colaborar em projetos emocionantes ou apenas quiser bater um papo sobre tecnologia e inovação, sinta-se à vontade para entrar em contato. Estou sempre aberto a novas conexões e oportunidades.
+![Artur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arturaraujo7&show_icons=true&theme=dark)
 
 Obrigado por visitar meu perfil! 😊
